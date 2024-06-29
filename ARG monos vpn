@@ -1,1 +1,249 @@
-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
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",IP  24.5 *
+https://octubre-live.cdn.vustreams.com/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+#EXTINF:0 tvg-id="CronicaTV.ar" group-title="NOTICIAS",CRONICA HD  24.4
+https://g2.vxral-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",CANAL 26  24.2
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w794690609_b2628000_sleng.m3u8
+#EXTINF:0 tvg-id="A24.ar" group-title="NOTICIAS",A24  36.3
+https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-100056_720p.m3u8
+#EXTINF:0 tvg-id="TodoNoticias.ar" group-title="NOTICIAS",TODO NOTICIAS
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+#EXTINF:0 tvg-id="C5N.ar" group-title="NOTICIAS",C5N  25.2
+https://edge-live12-sl.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+#EXTINF:0 tvg-id="avi" group-title="NOTICIAS",LN+  25.3
+https://www.youtube.com/watch?v=GZEwdVV5DTY
+#EXTINF:0 tvg-id="CanaldeDiputados.cl" group-title="NOTICIAS",DIPUTADOS TV
+https://www.youtube.com/watch?v=4Hlh0zfL_sw
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",FRANCE 24 ESPAÑOL - 24.3
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",TELESUR  25.4
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RT  25.5
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:0 tvg-id="Euronews.ar" group-title="NOTICIAS",Euronews
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",24 HORAS ESPAÑA
+https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
+#EXTINF:0 tvg-id="CGTN.es" group-title="NOTICIAS",CGTN ESPAÑOL
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="NOTICIAS",GALICIA TV
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+#EXTINF:0 tvg-id="324.es" group-title="NOTICIAS",3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0 tvg-id="CanalRural.ar" group-title="NOTICIAS",RURAL TV
+https://cda2.streaming.ws/elrural/live/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",CHACRA TV
+https://s8.stweb.tv/chacra/live/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",ARGENTINISIMA SATELITAL
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w859718981_b1912000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",RADIO MITRE
+https://g1.proy-slo.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/Playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIAS",Telefe Noticias
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f523aa5523ae000074745ec/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:0 tvg-id="ext" group-title="AMBA",AMERICA HD  36.1
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TV PUBLICA - 23.2
+https://g1.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 9  35.1
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/0df6d88d-304a-4d15-9cf8-eab1bc9b5e45/3.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="AMBA",TELEFE  34.1
+https://edge-live31-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="AMBA",TELEFE  34.1 OPCION 2
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 13  33.1
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",NET TV 27.2
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL DE LA CIUDAD
+https://g3.mc-slo.transport.edge-access.net/a08/ngrp:gcba_video4-100042_all/gcba_video4-100042_540p.m3u8
+#EXTINF:0 tvg-id="Encuentro.ar" group-title="AMBA",CANAL ENCUENTRO 22.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TEC TV  22.5
+https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",PAKA PAKA  22.2
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",ALF
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",Anime Clásico
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CINEAR  22.4
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CIUDAD MAGAZINE
+https://g5.mc-hor.transport.edge-access.net/b11/ngrp:magazine_live01-100083_all/magazine_live01-100083_480p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",Telefe Hits
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5de91cf02fc07c0009910465/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="AMBA",NEO TV DIGITAL  16.1
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",GEN TV  17.4
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",ATV ARGENTINA  19.1
+https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CINCO TV TIGRE  30.1
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TELECREATIVA LANUS
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 4 TELEAIRE SAN MARTIN
+https://stmvideo2.livecastv.com/canal4/canal4/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 6 MORENO
+https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 29 ENSENADA 29.1
+https://clientes.videostreaming.ar:19360/multimediosensenada/multimediosensenada.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TELE MIX CANAL 50 GLEW
+https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",PROVINCIAL TV
+http://www.trimi.com.ar/provincial/streaming/mystreamProvincialHSMed.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_540p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",DEPORT TV 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="AMBA",TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="AMBA",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+#EXTINF:0 tvg-id="AmericaSports.ar" group-title="AMBA",AMERICA SPORTS
+https://www.youtube.com/watch?v=Vt1WxzV3BkM
+#EXTINF:0 tvg-id="avi" group-title="AMBA",HIPODROMO PALERMO
+https://www.youtube.com/watch?v=9bFoQOcVC-Q
+#EXTINF:0 tvg-id="avi" group-title="AMBA",RADIO POP 101.5 FM
+https://www.youtube.com/watch?v=6BNXrcYGEIQ
+#EXTINF:0 tvg-id="ext" group-title="AMBA",MIRADOR  22.3
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",LATINA RADIO FM 101.1
+https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Telemax.ar" group-title="AMBA",TELEMAX  26.3
+https://live-edge01.telecentro.net.ar/live/tlx.smil/.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",ORBE 21  21.2
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
+#EXTINF:0 tvg-id="CN23.ar" group-title="AMBA",UNIFE TV  25.1
+https://dcunilive262-lh.akamaihd.net/i/dclive_1@424583/index_150_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-id="ext" group-title="AMBA",SANTA MARIA
+http://www.trimi.com.ar/santa_maria/streaming/mystreamSantaMariaHSMed.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1020255408_b2028000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TERRAMIA TV
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CM
+https://g4.proy-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
+#EXTINF:0 tvg-id="Gourmet.com.ar" group-title="AMBA",GOURMET TV
+https://amc-elgoourmet-1.plex.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+#EXTINF:0 tvg-id="MasChic.ar" group-title="AMBA",MAS CHIC
+https://f2b4dc86ea1f4f378b5a1e09f254eb8f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MasChic/playlist.m3u8?ads.wurl_channel=848&ads.wurl_name=MasChic&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=yi3WvVXQLo24NDhX1hCY&ads.plex_id=608a2c722957c9002c6a6177&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:0 tvg-id="ext" group-title="AMBA",NUEVA IMAGEN TV
+http://server.miamitvchannel.com/externos/nuevaimagen/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TVU LA PLATA
+https://stratus.stream.cespi.unlp.edu.ar/hls/tvunlp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",SICARDI TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",REALPOLITIK LA PLATA
+https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 22 WEB
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CANAL 3 ARGENTINA
+https://stmv1.voxhdnet.com/tresargtv/tresargtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",FM 90.1 TRUJUI
+https://inliveserver.com:1936/14102/14102/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",LA 1120 AM SANTIAGO Y COPLA - G LAFERRERE
+https://panel.dattalive.com/8140/8140/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CADENA JCB  - TEMPERLEY
+https://clientes.videostreaming.ar:19360/jcbtv/jcbtv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",LA 100
+https://g3.vxral-slo.transport.edge-access.net/a11/ngrp:cienradioshd-10002_all/cienradioshd-10002_540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO ENSAMBLE
+https://streamcasthd.com:1936/ensamblecontenidostv/ensamblecontenidostv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO JAI
+https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",BEATS  - 100.5 FM - TIGRE
+https://59537faa0729a.streamlock.net/beatsradio/beatsradio/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",AN24
+https://5f700d5b2c46f.streamlock.net/tvan24/tvan24/chunklist_w1870422688.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",VORTERIX - 92.1 FM
+https://prepublish.f.qaotic.net/a08/ngrp:vorterix_video1-20057_all/vorterix_video1-20057_540p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO CLASS 91.9 FM SAENZ PEÑA
+https://streamcasthd.com:1936/classfmtv/classfmtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",TRADICIONAL AM 1340
+https://streamcasthd.com:19360/radiotradicional1340/radiotradicional1340.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",AMPLITUD AM 660 SAN JUSTO
+https://clientes.videostreaming.ar:19360/radioamplitud/radioamplitud.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RBD RADIO
+http://videostream.shockmedia.com.ar:1935/rbdvideo/rbdvideo/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",FM OK 105.7 FLORENCIO VARELA
+https://panel.dattalive.com/8124/8124/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",FM 89.1 RADIO UNIVERSIDAD SAN JUSTO
+http://s8.stweb.tv/unlam/video2/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",A91 FM 90.9 ANTENA 91 LOMAS DE ZAMORA
+https://clientes.videostreaming.ar:19360/antena91/antena91.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO TOP 104.9 FM
+http://inliveserver.com:1935/14082/14082/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",CADENA 1470 AM LANUS
+https://stmvideo1.livecastv.com/am1470/am1470/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",IMPACTO AM 1440 TAPIALES
+https://streamcasthd.com:1936/am1440tv/am1440tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO ROCHA AM 1570 LA PLATA
+https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",FM URQUIZA POSITIVA 104.5 FM
+http://inliveserver.com:1935/17032/17032/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",ON RADIO ARGENTINA
+https://clientes.videostreaming.ar:19360/onradio/onradio.m3u8
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RPO RADIO PUNTO AM 1400
+https://videohd.live:19360/8012/8012.m3u8
+#EXTINF:0 tvg-id="avi" group-title="AMBA",FM LA BOCA 90.1  (SOLO AUDIO)
+https://s24.myradiostream.com/14984/listen.mp3
+#EXTINF:0 tvg-id="ext" group-title="AMBA",RADIO DISNEY 94.3 FM  (SOLO AUDIO)
+https://20283.live.streamtheworld.com/DISNEY_ARG_BA.mp3?dist=web-radiodisney-disneylatino
+#EXTINF:0 tvg-id="avi" group-title="AMBA",RADIO BELGRANO (SOLO AUDIO)
+http://server.laradio.online:25223/live.mp3
+
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",SSIPTV ARG SPORTS
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN2_PY/SA_SAGEMCOM/ESPN2_PY.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",SSIPTV ARG SPORTS 2
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",SSIPTV ARG SPORTS 3
+http://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",DEPORT TV 24.1
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:0 tvg-id="TyCSports.ar" group-title="DEPORTE",TyC SPORT
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",CIUDAD MAGICA TV
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
+#EXTINF:0 tvg-id="GarageTV.es" group-title="DEPORTE",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w2049053275_b1296000_sleng.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",UNO CONTRA UNO TV
+https://stmvideo3.livecastv.com/ucuweb/ucuweb/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.ar" group-title="DEPORTE",ESPN
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN2HD/SA_SAGEMCOM/ESPN2HD.m3u8
+#EXTINF:0 tvg-id="ESPN2.ar" group-title="DEPORTE",ESPN 2
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPN_PY/SA_SAGEMCOM/ESPN_PY.m3u8
+#EXTINF:0 tvg-id="ESPN3SD.ar" group-title="DEPORTE",ESPN 3
+http://edge-live14-hr.cvattv.com.ar/live/c3eds/ESPN3/SA_SAGEMCOM/ESPN3.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="DEPORTE",ESPN 4
+http://edge02-fdo-py.cvattv.com.ar/live/c7eds/ESPN4/SA_SAGEMCOM/ESPN4.m3u8
+#EXTINF:0 tvg-id="Espnextra.br" group-title="DEPORTE",ESPN EXTRA
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/ESPNHD/SA_SAGEMCOM/ESPNHD.m3u8
+#EXTINF:0 tvg-id="FoxSports.ar" group-title="DEPORTE",Fox Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+#EXTINF:0 tvg-id="FoxSports2.ar" group-title="DEPORTE",Fox Sports 2
+https://chromecast.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+#EXTINF:0 tvg-id="FoxSports3.ar" group-title="DEPORTE",Fox Sports 3
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",TNT Sports
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+#EXTINF:0 tvg-id="FoxSportsPremium.pe" group-title="DEPORTE",Fox Sports Premium
+http://edge02-fdo-py.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+#EXTINF:0 tvg-id="F1.ar" group-title="DEPORTE",F1
+http://66.70.176.103:8081/SPAIN%7CMOVISTARF1/SPAIN%7CMOVISTARF1/playlist.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.ar" group-title="DEPORTE",DISCOVERY TURBO
+http://iptvmedia.live:8080/FM10008/ee54fb4b/290062
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",*Deporte
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",Fútbol Para Fans
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",*Peleas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-id="ext" group-title="DEPORTE",All Elite Wrestling
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsu
